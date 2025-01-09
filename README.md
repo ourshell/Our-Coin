@@ -6,7 +6,7 @@ Welcome to OUR COIN, the cryptocurrency that combines humor, technology, and com
 
 ### Features:
 - **Symbol:** $OCN
-- **Purpose:** A fun, decentralized token built for the community.
+- **Purpose:** A fun token built on Solana blockchain.
 - **Mission:** Bringing people together with a mix of satire and serious tech.
 
 Join the revolution and be part of the collective with $OCN!
