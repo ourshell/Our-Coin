@@ -9,4 +9,4 @@ Welcome to OUR COIN, the cryptocurrency that combines humor, technology, and com
 
 Join the revolution and be part of the collective with $OCN!
 
-We’re building something absurdly brilliant.
+**We’re building something absurdly brilliant.**
