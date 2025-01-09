@@ -28,7 +28,7 @@ Conny is the backbone of OUR COIN. They handle technical work, manage social med
 
 #### **CSA and Coop Commander**  
 **Role:** Devs of SILKHAT Coin and Community Contributors  
-CSA and Coop Commander are developers of SILKHAT Coin. Their decision to join OUR COIN’s community is heartwarming and brings valuable expertise and enthusiasm to the team. They embody the spirit of collaboration that OUR COIN is all about.
+CSA and Coop Commander are developers at SILKHAT Coin. Their decision to join OUR COIN’s community is heartwarming and brings valuable expertise and enthusiasm to the team. They embody the spirit of collaboration that OUR COIN is all about.
 
 ---
 
