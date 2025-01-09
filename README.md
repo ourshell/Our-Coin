@@ -1,6 +1,6 @@
 # OUR COIN ($OCN)
 
-### Checkout the [White Paper]([https://github.com/ourshell/Our-Coin/blob/main/README.md](https://github.com/ourshell/Our-Coin/blob/main/White-Paper.md))
+### Checkout the [White Paper](https://github.com/ourshell/Our-Coin/blob/main/White-Paper.md)
 
 Welcome to OUR COIN, the cryptocurrency that combines humor, technology, and community spirit. Born from a parody of communism, $OCN is all about collective effort and shared success.
 
