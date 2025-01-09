@@ -1,4 +1,4 @@
-**OUR COIN: The White Paper**
+# **OUR COIN: The White Paper**
 
 ---
 
