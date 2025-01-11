@@ -1,6 +1,6 @@
 # Community Protection Policy for OUR COIN ($OCN)
 
- - ### Version 1.01, 2025-01-11
+- ### Version 1.01, 2025-01-11
 
 At OUR COIN, we prioritize the safety and trust of our community. As our group grows and expands, we are committed to protecting members from potential scams and fraudulent activities. This protection policy outlines the key measures and warnings to ensure a safe and thriving community.
 
