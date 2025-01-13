@@ -8,31 +8,31 @@ Ensuring the safety of our community is our top priority. As we continue to grow
 
 ### **1. Common Fraud Tactics**
 
-#### 2.1.**Fake Upgrade Requests**
+#### 1.1. **Fake Upgrade Requests**
 - **Description:** Scammers may claim that a new version of the coin is being released and request your wallet's private information to facilitate the upgrade.
 - **Warning:** Legitimate upgrades will **never** require you to share your wallet's private keys, seed phrases, or any sensitive information.
 - **Action:** If you receive such a message, do not respond and report it immediately to an official admin.
 
-#### **Impersonation of Admins**
+#### 1.2. **Impersonation of Admins**
 - **Description:** Fraudsters may mimic admin accounts by copying usernames and profile pictures, sending direct messages to members to extract private data.
 - **Warning:** Official admins will **never** initiate direct messages asking for personal information.
 - **Action:** Verify admin identities through official group announcements and report any suspicious accounts to the community moderators.
 
-#### **Unauthorized Use of "Admin" in Usernames**
+#### 1.3. **Unauthorized Use of "Admin" in Usernames**
 - **Description:** Some individuals may join the community with "admin" in their profile names to deceive members.
 - **Policy:** No member is permitted to use "admin" or similar titles in their profile name. Violations will result in a warning or ban to maintain group safety.
 
-#### **Airdrop Scams**
+#### 1.4. **Airdrop Scams**
 - **Description:** Scammers may promise free airdrops in exchange for private information, payments, or by directing you to fraudulent websites.
 - **Warning:** Genuine airdrops will **never** require payment or access to your private keys.
 - **Action:** Only follow airdrop announcements from official channels and avoid engaging with unsolicited offers.
 
-#### **Phishing Links**
+#### 1.5. **Phishing Links**
 - **Description:** Malicious links may be shared in chats or direct messages, leading to fake websites designed to steal your information.
 - **Warning:** Always verify URLs and ensure they correspond to official platforms before clicking.
 - **Action:** Report any suspicious links to the community moderators and avoid interacting with them.
 
-#### **Fake Investment Opportunities**
+#### 1.6. **Fake Investment Opportunities**
 - **Description:** Scammers may offer high-return investment schemes or claim partnerships to lure you into sending funds.
 - **Warning:** All official partnerships and investment opportunities will be communicated through verified channels.
 - **Action:** Be skeptical of unsolicited investment offers and consult official sources before making any decisions.
