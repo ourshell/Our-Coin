@@ -8,7 +8,7 @@ Ensuring the safety of our community is our top priority. As we continue to grow
 
 ### **1. Common Fraud Tactics**
 
-#### **Fake Upgrade Requests**
+#### 2.1.**Fake Upgrade Requests**
 - **Description:** Scammers may claim that a new version of the coin is being released and request your wallet's private information to facilitate the upgrade.
 - **Warning:** Legitimate upgrades will **never** require you to share your wallet's private keys, seed phrases, or any sensitive information.
 - **Action:** If you receive such a message, do not respond and report it immediately to an official admin.
