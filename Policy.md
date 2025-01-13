@@ -13,15 +13,14 @@ Ensuring the safety of our community is our top priority. As we continue to grow
 - **Warning:** Legitimate upgrades will **never** require you to share your wallet's private keys, seed phrases, or any sensitive information.
 - **Action:** If you receive such a message, do not respond and report it immediately to an official admin.
 
-#### **Imposters Mimicking Admins**
-- Scammers may pretend to be admins by copying usernames, pictures, and profiles, and sending private messages to members.
-- **Warning:** Official admins will never DM you first or ask for private information.
-- **Action:** Verify admin identities only through messages or announcements made in the official group.
+#### **Impersonation of Admins**
+- **Description:** Fraudsters may mimic admin accounts by copying usernames and profile pictures, sending direct messages to members to extract private data.
+- **Warning:** Official admins will **never** initiate direct messages asking for personal information.
+- **Action:** Verify admin identities through official group announcements and report any suspicious accounts to the community moderators.
 
-#### **Prohibited Use of "Admin" in Usernames**
-- No member is allowed to use "admin" or similar titles in their profile name.
-- **Reason:** This precaution prevents scammers from impersonating admins.
-- **Consequence:** Violators will be warned or banned to maintain group safety.
+#### **Unauthorized Use of "Admin" in Usernames**
+- **Description:** Some individuals may join the community with "admin" in their profile names to deceive members.
+- **Policy:** No member is permitted to use "admin" or similar titles in their profile name. Violations will result in a warning or ban to maintain group safety.
 
 ---
 
