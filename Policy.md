@@ -2,16 +2,16 @@
 
 - ### Version 1.01, 2025-01-11
 
-At OUR COIN, we prioritize the safety and trust of our community. As our group grows and expands, we are committed to protecting members from potential scams and fraudulent activities. This protection policy outlines the key measures and warnings to ensure a safe and thriving community.
+Ensuring the safety of our community is our top priority. As we continue to grow, it's essential to be aware of potential scams and fraudulent activities that may target our members. This policy outlines common fraud tactics and provides guidelines to protect everyone from potential scams.
 
 ---
 
 ### **1. Protecting Against Common Scams**
 
 #### **Fake Upgrade Requests**
-- Be cautious of messages claiming, "We are releasing a new version of the coin, upgrading from version 1 to version 2."
-- **Warning:** Legitimate upgrades will never require you to share your wallet secret, private keys, or recovery phrases.
-- **Action:** If you receive such a message, report it immediately to an official admin.
+- **Description:** Scammers may claim that a new version of the coin is being released and request your wallet's private information to facilitate the upgrade.
+- **Warning:** Legitimate upgrades will **never** require you to share your wallet's private keys, seed phrases, or any sensitive information.
+- **Action:** If you receive such a message, do not respond and report it immediately to an official admin.
 
 #### **Imposters Mimicking Admins**
 - Scammers may pretend to be admins by copying usernames, pictures, and profiles, and sending private messages to members.
