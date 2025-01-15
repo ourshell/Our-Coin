@@ -97,6 +97,8 @@ Again, remember to keep **0.1 SOL** in your wallet for fees.
 ## **Welcome to the Revolution**
 Or is it a **satirical evolution**? Either way, **OUR COIN (\$OCN)** is here to make you laugh, ponder, and maybe even profit (definitely not financial advice!) along the way. We appreciate your interest in our little piece of comedy on the blockchain — join us, comrade!
 
+**We’re building something absurdly brilliant.**
+
 **Join Our Telegram & Twitter** for the latest news and updates. Stay safe, stay informed, and have fun exploring this playful take on meme coins and “communal” value.
 
 ---
