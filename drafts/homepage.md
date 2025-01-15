@@ -7,10 +7,13 @@ Drawing inspiration from political ideologies, **\$OCN** aims to bring humor and
 We're building an incredible community on Telegram and Twitter, and we'll launch as soon as we have enough comrades to support the cause.
 
 💬 Telegram: https://t.co/Oksclt8xwU
+
 🐦 Twitter (X): https://x.com/_OurCoin
 
 Token Adress: <TBA>
+
 DexScreener: <TBA>
+
 CoinMarketCap: <TBA>
 
 ---
