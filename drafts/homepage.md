@@ -112,13 +112,13 @@ Again, ensure you deposit enough SOL to cover your intended purchase amount **pl
 
 ---
 
-## **Disclaimer**
-This page is for informational purposes only and does not constitute financial or investment advice. **Always** perform thorough research and consult professionals if you are unsure about your decisions. Cryptocurrency involves risks, including potential loss of principal.
-
----
-
-### **Welcome to the Revolution(?)**
+### **Welcome to the Revolution**
 Or is it a satirical evolution? Whatever you decide, **OUR COIN (\$OCN)** is here to make you laugh, think, and maybe even profit (not financial advice!) along the way. Thanks for your interest, and welcome to the community!
 
 **Join us, comrade!**  
 Visit our official website or follow us on social media for the latest news and updates on **OUR COIN (\$OCN)**. Stay informed, stay secure, and have fun exploring our playful take on tokenomics and “communal” value.
+
+---
+
+## **Disclaimer**
+This page is for informational purposes only and does not constitute financial or investment advice. **Always** perform thorough research and consult professionals if you are unsure about your decisions. Cryptocurrency involves risks, including potential loss of principal.
