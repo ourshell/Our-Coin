@@ -1,37 +1,43 @@
-**OUR COIN (\$OCN)**  
-Welcome to **OUR COIN (\$OCN)**—the tongue-in-cheek token on the Solana blockchain that playfully satirizes the concepts of communism. Drawing inspiration from political ideologies, **\$OCN** aims to bring humor and a lighthearted take on what it means to “redistribute” value in a crypto-driven world. If you enjoy creative, satirical tokens and are curious about investing in Solana-based projects, read on!
+## **What is OUR COIN (\$OCN)?**
+
+Welcome to OUR COIN, token on the Solana blockchain that playfully satirizes the concepts of communism. It's the most epic political meme coin in our very prestigious history.
+Back in the day, it was never "my" or "your". It was "our success", "our achievements", our engineers... We are laughing at this system with the creation of OUR COIN! 🚀
+Drawing inspiration from political ideologies, **\$OCN** aims to bring humor and a lighthearted take on what it means to “redistribute” value in a crypto-driven world.
+
+We're building an incredible community on Telegram and Twitter, and we'll launch as soon as we have enough comrades to support the cause.
+
+💬 Telegram: https://t.co/Oksclt8xwU
+🐦 Twitter (X): https://x.com/_OurCoin
+
+Token Adress: <TBA>
+DexScreener: <TBA>
+CoinMarketCap: <TBA>
 
 ---
 
-## **What is OUR COIN (\$OCN)?**  
-**OUR COIN** is a brand-new cryptocurrency built on the **Solana** network. This coin’s theme is a satirical spin on communism—think of it as a fun social commentary rather than a serious ideological pursuit. Our goal is to spark conversation, encourage community participation, and provide an entertaining alternative to the typical crypto landscape.  
-
----
-
-## **How to Buy \$OCN**  
+## **How to Buy \$OCN**
 Below, you’ll find step-by-step instructions to guide you through the process of purchasing **\$OCN**. We’ll cover three main approaches:
 
-1. **Phantom Wallet** (a popular Solana wallet).  
-2. **Solflare** (another user-friendly Solana wallet).  
-3. **Revolut** (a simpler, more universal way to buy SOL directly and then transfer).
+1. **Phantom Wallet** (a popular Solana wallet), we recommend this one.
+2. **Solflare** (another user-friendly Solana wallet).
+3. **Revolut** - Simpler and more universal way to buy SOL directly and then transfer).
 
 Remember: **Always do your own research, and never invest more than you can afford to lose.**
 
-### **Important Note on SOL Requirements**  
-To trade **\$OCN**, you will need Solana (SOL) in your wallet. However, **you must keep at least 0.1 SOL** in your wallet to cover transaction and network fees.  
+### **Important Note on SOL Requirements**
+To trade **\$OCN**, you will need Solana (SOL) in your wallet. However, **you must keep at least 0.1 SOL** in your wallet to cover transaction and network fees. It's enough for a hundred transactions.
 - **Example**: If you plan to invest 0.2 SOL in **\$OCN**, you need an additional 0.1 SOL in your wallet for fees—meaning you should deposit a total of **0.3 SOL**.
 
 ---
 
 ## **1. Buying \$OCN via Phantom Wallet**
 
-### **Step 1: Download & Install Phantom**  
-- **Desktop (Browser Extension)**: Visit the official [Phantom website](https://phantom.app/) (make sure it’s the legitimate site) and download the extension for Chrome, Brave, Firefox, or Edge.  
+### **Step 1: Download & Install Phantom**
+- **Desktop (Browser Extension)**: Visit the official [Phantom website](https://phantom.app/) (make sure it’s the legitimate site) and download the extension for Chrome, Firefox, or Edge.
 - **Mobile (iOS & Android)**: Download the **Phantom Wallet** app from the official App Store or Google Play Store.
 
-### **Step 2: Create or Import a Wallet**  
-- **Create New Wallet**: Open Phantom and choose “Create New Wallet.” Follow the on-screen prompts, create a secure password, and back up your secret recovery phrase (never share this phrase with anyone!).  
-- **Import Existing Wallet**: If you already have a Solana wallet, you can import it by entering your secret recovery phrase.
+### **Step 2: Create a Wallet**
+**Create New Wallet**: Open Phantom and choose “Create New Wallet.” Follow the on-screen prompts, create a secure password, and back up your secret recovery phrase (never share this phrase with anyone!).
 
 ### **Step 3: Verify Your Wallet & Identity (If Needed)**  
 Phantom itself does not typically require an ID verification. However, if you’re purchasing SOL through a third-party service integrated with Phantom (like MoonPay or Coinbase Pay), you may need to provide identification to comply with KYC (Know Your Customer) regulations.  
@@ -47,11 +53,11 @@ You can obtain SOL in multiple ways. Two common methods are:
 
 Make sure to deposit **enough SOL** so that you have at least **0.1 SOL remaining** after your desired investment.
 
-### **Step 5: Swap SOL for \$OCN**  
-1. **Open Phantom**: Go to the “Swap” tab.  
-2. **Select “SOL” as the token you are swapping from**.  
-3. **Select “\$OCN” as the token you are swapping to** (if it’s not listed, you might have to input the contract address—follow our official website or Twitter for the verified contract address).  
-4. **Confirm Your Swap**: Enter the amount of SOL you want to trade (remember to leave 0.1 SOL in your wallet).  
+### **Step 5: Swap SOL for \$OCN**
+1. **Open Phantom**: Go to the “Swap” tab.
+2. **Select “SOL” as the token you are swapping from**.
+3. **Paste above <TBA> adress of “\$OCN” as the token you are swapping to** I will not be listed because it's quite new. That's why you are proving the swapping the contract address.
+4. **Confirm Your Swap**: Enter the amount of SOL you want to trade. Initially remember to keep about 0.1 SOL in your wallet for precausion. It will be used to cover network fees and taxes.
 5. **Execute Transaction**: Review the transaction details and click “Swap.” Once confirmed, **\$OCN** will appear in your Phantom wallet balance.
 
 ---
@@ -62,9 +68,8 @@ Make sure to deposit **enough SOL** so that you have at least **0.1 SOL remainin
 - **Browser Extension**: Go to the [Solflare official site](https://solflare.com/) and install the extension for your preferred browser (Chrome, Firefox, etc.).  
 - **Mobile App**: Download the Solflare app from the App Store or Google Play.
 
-### **Step 2: Create or Import a Wallet**  
-- **Create New Wallet**: Follow the on-screen prompts to set up a brand-new Solflare wallet. Back up your recovery phrase securely.  
-- **Import Existing Wallet**: Use your existing Solana seed phrase if you want to merge or transfer from another wallet.
+### **Step 2: Create a Wallet**  
+**Create New Wallet**: Follow the on-screen prompts to set up a brand-new Solflare wallet. Back up your recovery phrase securely.  
 
 ### **Step 3: Verify Your Wallet & Identity (If Needed)**  
 Similar to Phantom, Solflare itself does not usually require ID verification for standard usage. You’ll only need verification if you use an integrated exchange or a debit/credit card buy feature within the wallet.
