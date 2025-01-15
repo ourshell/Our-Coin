@@ -10,11 +10,11 @@ We're building an incredible community on Telegram and Twitter, and we'll launch
 
 🐦 Twitter (X): https://x.com/_OurCoin
 
-Token Adress: <TBA>
+Token Adress: TBA
 
-DexScreener: <TBA>
+DexScreener: TBA
 
-CoinMarketCap: <TBA>
+CoinMarketCap: TBA
 
 ---
 
@@ -65,7 +65,7 @@ Make sure to deposit **enough SOL** so that you have at least **0.1 SOL remainin
 ### **Step 5: Swap SOL for \$OCN**
 1. **Open Phantom**: Go to the “Swap” tab.
 2. **Select “SOL” as the token you are swapping from**.
-3. **Paste above <TBA> adress of “\$OCN” as the token you are swapping to** I will not be listed because it's quite new. That's why you are proving the swapping the contract address.
+3. **Paste above adress (TBA) of “\$OCN” as the token you are swapping to** I will not be listed because it's quite new. That's why you are proving the swapping the contract address.
 4. **Confirm Your Swap**: Enter the amount of SOL you want to trade. Initially remember to keep about 0.1 SOL in your wallet for precausion. It will be used to cover network fees and taxes.
 5. **Execute Transaction**: Review the transaction details and click “Swap.” Once confirmed, **\$OCN** will appear in your Phantom wallet balance.
 
