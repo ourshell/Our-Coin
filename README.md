@@ -20,10 +20,10 @@ We’re building an amazing community on Telegram and Twitter, and we’ll launc
 ## **How to Buy \$OCN**
 Here’s how you can join the revolution, comrade. We’ll focus on two popular Solana wallets — **Phantom** and **Solflare**. Feel free to buy SOL using any exchange like **Revolut, Binance, FTX, Coinbase**, etc., then transfer it to your wallet.
 
-> **Never invest more than you can afford to lose. Always keep at least 0.1 SOL in your wallet for transaction fees.**
+> **Never invest more than you can afford to lose. Always keep at least 0.05 SOL in your wallet for transaction fees.**
 
 ### **Example**  
-If you want to buy 0.2 SOL worth of **\$OCN**, transfer **0.3 SOL** to your wallet (0.2 for buying + 0.1 for fees).  
+If you want to buy 0.2 SOL worth of **\$OCN**, transfer **0.25 SOL** to your wallet (0.2 for buying + 0.05 for fees).  
 
 ---
 
@@ -45,13 +45,13 @@ Use integrated services like MoonPay or Coinbase Pay. If asked for ID verificati
 2. **Withdraw from Exchange**: On Revolut, Binance, FTX, or Coinbase, find “Withdraw SOL” and paste your Phantom address.  
 3. **Confirm the Withdrawal**: Enter the amount of SOL you wish to send.
 
-Make sure you have **0.1 SOL left** after buying \$OCN.
+Make sure you have **0.05 SOL left** after buying \$OCN.
 
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Phantom** and click on the **“Swap”** tab.  
 2. **Select “SOL”** as the token you’re swapping from.  
 3. **Paste \$OCN’s Contract Address (TBA)** as the token you’re swapping to (it won’t be listed because it’s new).  
-4. **Confirm Your Swap**: Enter the amount of SOL you want to trade, but remember to keep about 0.1 SOL for fees.  
+4. **Confirm Your Swap**: Enter the amount of SOL you want to trade, but remember to keep about 0.05 SOL for fees.  
 5. **Execute**: Review and confirm. Once it’s done, **\$OCN** will show up in your Phantom wallet.
 
 ---
@@ -73,7 +73,7 @@ If your region supports it, use integrated services (like MoonPay) and complete 
 1. **Find Your Solflare Address**: Click on **“Receive,”** copy your SOL address.  
 2. **Withdraw from Exchange**: On Revolut, Binance, FTX, or Coinbase, paste your Solflare address and confirm.
 
-Again, remember to keep **0.1 SOL** in your wallet for fees.
+Again, remember to keep **0.05 SOL** in your wallet for fees.
 
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Solflare** and find **“Swap”** or **“Trade.”**  
@@ -85,7 +85,7 @@ Again, remember to keep **0.1 SOL** in your wallet for fees.
 ---
 
 ## **Additional Tips & Important Info**
-1. **Keep 0.1 SOL for Fees**: This covers transaction costs on Solana.  
+1. **Keep 0.05 SOL for Fees**: This covers transaction costs on Solana.  
 2. **Security First**:  
    - Never share your recovery phrase or private keys.  
    - Use strong passwords and back them up safely.  
