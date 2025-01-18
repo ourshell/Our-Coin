@@ -24,7 +24,7 @@ Boris is the mastermind behind OUR COIN. A real person using his real name, he i
 
 #### **Conny**
 
-![Conny](../design/team/conny.jpg)
+![Conny](design/team/conny.jpg)
 
 **Role:** Technical Lead and Community Builder  
 Conny is the backbone of OUR COIN. They handle technical work, manage social media, and build a strong community. From solving technical issues to engaging with users, Conny keeps the project running smoothly.
