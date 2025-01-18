@@ -26,12 +26,16 @@ This project celebrates the funny side of "no my, only our" and brings it to the
 Boris is the mastermind behind OUR COIN. A real person using his real name, he is transparent, doxxed, and proud to be a "based dev." Boris’s leadership combines technical skill with creativity, making this project both fun and meaningful.
 
 #### **Conny**
+
 ![Conny](design/team/conny.jpg)
 
 **Role:** Technical Lead and Community Builder  
 Conny is the backbone of OUR COIN. They handle technical work, manage social media, and build a strong community. From solving technical issues to engaging with users, Conny keeps the project running smoothly.
 
-#### **CSA and Coop Commander**  
+#### **CSA and Coop Commander**
+
+![SilkHat](design/team/silkhat.jpg)
+
 **Role:** Devs of SILKHAT Coin and Community Contributors  
 CSA and Coop Commander are developers at SILKHAT Coin. Their decision to join OUR COIN’s community is heartwarming and brings valuable expertise and enthusiasm to the team. They embody the spirit of collaboration that OUR COIN is all about.
 
