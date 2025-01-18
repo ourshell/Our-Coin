@@ -20,7 +20,7 @@ This project celebrates the funny side of "no my, only our" and brings it to the
 
 #### **Boris Andonov**
 
-![Boris](design/team/boris2.jpg)
+![Boris](design/team/boris.jpg)
 
 **Role:** Architect and Visionary  
 Boris is the mastermind behind OUR COIN. A real person using his real name, he is transparent, doxxed, and proud to be a "based dev." Boris’s leadership combines technical skill with creativity, making this project both fun and meaningful.
