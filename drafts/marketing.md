@@ -65,26 +65,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **22. FOMO Post**
-**X (Twitter):**
-> 🔥 Don’t be the last comrade to join the revolution! 🔥  
-> **OUR COIN ($OCN)** is growing fast, and you don’t want to miss out on the fun, memes, and moonshots.  
-> 🚀 Be part of something absurdly brilliant:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> FOMO is real, comrade. Act now!  
-#CryptoFOMO #OURCOIN #MemeRevolution
-
-**Telegram:**
-> 🚨 **FOMO Alert!** 🚨  
-> Don’t miss your chance to be part of the **OUR COIN ($OCN)** revolution.  
-> 🌟 Memes, fun, and collective moonshots await.  
-> Join now before it’s too late:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
 ### **7. Meme-Based Promo**
 **X (Twitter):**
 > 🤔 Ever wonder what happens when communism meets crypto?  
@@ -102,6 +82,26 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 > Remember: **It’s not yours, it’s OURS!** 🌟
+
+---
+
+### **22. FOMO Post**
+**X (Twitter):**
+> 🔥 Don’t be the last comrade to join the revolution! 🔥  
+> **OUR COIN ($OCN)** is growing fast, and you don’t want to miss out on the fun, memes, and moonshots.  
+> 🚀 Be part of something absurdly brilliant:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> FOMO is real, comrade. Act now!  
+#CryptoFOMO #OURCOIN #MemeRevolution
+
+**Telegram:**
+> 🚨 **FOMO Alert!** 🚨  
+> Don’t miss your chance to be part of the **OUR COIN ($OCN)** revolution.  
+> 🌟 Memes, fun, and collective moonshots await.  
+> Join now before it’s too late:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
 ---
 
