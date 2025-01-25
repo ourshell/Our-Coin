@@ -1,4 +1,4 @@
-Here’s a collection of templates for promoting/shilling **OUR COIN ($OCN)** across social networks like X (Twitter), Telegram, and other platforms.
+Here’s a collection of templates for promoting **OUR COIN ($OCN)** across social networks like X (Twitter), Telegram, and other platforms.
 
 These templates maintain a humorous, engaging tone while highlighting the coin’s unique features. Feel free to customize them to fit specific campaigns or announcements.
 
