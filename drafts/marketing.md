@@ -229,27 +229,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **12. Airdrop Announcement**
-**X (Twitter):**
-> 🎁 **OUR COIN ($OCN) AIRDROP ALERT** 🎁  
-> Want free tokens? 🚀 Join our community and become part of the collective!  
-> No need to hoard—this is for everyone!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> 🔥 Don’t miss your chance to laugh *and* earn with $OCN!  
-#CryptoAirdrop #MemeCoin #OURCOIN
-
-**Telegram:**
-> 🎉 **Airdrop Incoming!** 🎉  
-> The people's coin is giving back to the people!  
-> 🌟 Join now and claim your **free $OCN tokens** as we prepare for launch.  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Act fast—this is *OUR* chance to make history!
-
----
-
-### **13. Invite Contest**
+### **12. Invite Contest**
 **X (Twitter):**
 > 🚨 **Invite Contest** 🚨  
 > Bring your comrades to the revolution!  
@@ -275,7 +255,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **14. Referral Challenge Promo**
+### **13. Referral Challenge Promo**
 **X (Twitter):**
 > 🏆 **Want to win free $OCN?** 🏆  
 > Join our **Referral Challenge** and bring your comrades to the revolution!  
@@ -296,7 +276,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **15. Pre-Launch Teaser**
+### **14. Pre-Launch Teaser**
 **X (Twitter):**
 > ⏳ Something BIG is coming...  
 > 🤯 It’s bold. It’s funny. It’s **OUR COIN ($OCN)**!  
@@ -316,7 +296,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **16. Launch Countdown**
+### **15. Launch Countdown**
 **X (Twitter):**
 > ⏳ The wait is almost over...  
 > 🚀 **OUR COIN ($OCN)** is launching in just **X days**!  
@@ -336,7 +316,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **17. Post-Launch Hype**
+### **16. Post-Launch Hype**
 **X (Twitter):**
 > 🚀 **OUR COIN ($OCN) IS LIVE!** 🚀  
 > The people's meme token has arrived on Solana!  
@@ -355,6 +335,26 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 > **The revolution starts now!**
+
+---
+
+### **17. Airdrop Announcement**
+**X (Twitter):**
+> 🎁 **OUR COIN ($OCN) AIRDROP ALERT** 🎁  
+> Want free tokens? 🚀 Join our community and become part of the collective!  
+> No need to hoard—this is for everyone!  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> 🔥 Don’t miss your chance to laugh *and* earn with $OCN!  
+#CryptoAirdrop #MemeCoin #OURCOIN
+
+**Telegram:**
+> 🎉 **Airdrop Incoming!** 🎉  
+> The people's coin is giving back to the people!  
+> 🌟 Join now and claim your **free $OCN tokens** as we prepare for launch.  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> Act fast—this is *OUR* chance to make history!
 
 ---
 
