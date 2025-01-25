@@ -399,24 +399,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **17. Post-Milestone Hype**
-**X (Twitter):**
-> 🎉 We hit **10,000 members** on Telegram! 🎉  
-> The **OUR COIN ($OCN)** revolution is growing stronger every day.  
-> 🚀 Thanks to all our comrades for making this happen. Onward to the moon!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-#CryptoMilestone #OURCOIN #MemeRevolution
-
-**Telegram:**
-> 🌟 **10,000 comrades strong!** 🌟  
-> The **$OCN revolution** is unstoppable, and it’s all thanks to YOU.  
-> 🚀 Let’s keep growing and making history.  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-
----
-
 ### **23. Milestone Celebration**
 **X (Twitter):**
 > 🎉 **We hit 1,000 $OCN comrades!** 🎉  
@@ -433,6 +415,24 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 🚀 Let’s keep pushing forward and reach even greater heights!  
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
+### **17. Post-Milestone Hype**
+**X (Twitter):**
+> 🎉 We hit **10,000 members** on Telegram! 🎉  
+> The **OUR COIN ($OCN)** revolution is growing stronger every day.  
+> 🚀 Thanks to all our comrades for making this happen. Onward to the moon!  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+#CryptoMilestone #OURCOIN #MemeRevolution
+
+**Telegram:**
+> 🌟 **10,000 comrades strong!** 🌟  
+> The **$OCN revolution** is unstoppable, and it’s all thanks to YOU.  
+> 🚀 Let’s keep growing and making history.  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 
 ---
 
