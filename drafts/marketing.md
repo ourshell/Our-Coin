@@ -105,6 +105,65 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **18. Meme Token Awareness Post**
+**X (Twitter):**
+> 🌟 **Not your coin, not my coin—it’s OUR COIN ($OCN)!**  
+> The funniest meme token built on Solana, where every comrade counts.  
+> 🚀 Fast, secure, and absurdly brilliant.  
+> Laugh your way to the blockchain revolution:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+#CryptoHumor #OURCOIN #MemeRevolution
+
+**Telegram:**
+> 😂 **OUR COIN ($OCN): The People’s Token!**  
+> Forget “private ownership.” This is about *OUR* success.  
+> 🚀 Solana speed, meme-worthy fun, and a growing collective.  
+> Join the movement now:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
+### **19. Viral Hashtag Campaign**
+**X (Twitter):**
+> 🛑 Say no to “my”! Say yes to *OUR*!  
+> Join the revolution with **OUR COIN ($OCN)**—a crypto parody like no other!  
+> 🌟 Use #OURCOIN and let the memes flow.  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> Let’s make crypto history together! 🚀  
+#MemeCoin #CryptoComedy #OURCOIN
+
+**Telegram:**
+> 🔥 **Hashtag Challenge!** 🔥  
+> 🚀 Share the funniest **OUR COIN** memes and tag them with #OURCOIN.  
+> Let’s flood the internet with laughs and solidarity!  
+> Join the conversation here:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
+### **20. Community-Driven Push**
+**X (Twitter):**
+> 🚀 **OUR COIN ($OCN)** is powered by YOU, the people!  
+> No central banks, no private ownership—just a collective of comrades building something extraordinary.  
+> Join the revolution:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> Together, we moon! 🌕  
+#CryptoCommunity #MemeRevolution #OURCOIN
+
+**Telegram:**
+> 🌟 **OUR COIN ($OCN) Needs You!** 🌟  
+> The revolution is growing, but it’s incomplete without YOU.  
+> 🚀 Be part of the collective and let’s rewrite crypto history together!  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
 ### **21. “What’s $OCN?” Explainer**
 **X (Twitter):**
 > 🤔 **What is OUR COIN ($OCN)?**  
@@ -355,65 +414,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 🚀 Let’s keep growing and making history.  
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-
----
-
-### **18. Meme Token Awareness Post**
-**X (Twitter):**
-> 🌟 **Not your coin, not my coin—it’s OUR COIN ($OCN)!**  
-> The funniest meme token built on Solana, where every comrade counts.  
-> 🚀 Fast, secure, and absurdly brilliant.  
-> Laugh your way to the blockchain revolution:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-#CryptoHumor #OURCOIN #MemeRevolution
-
-**Telegram:**
-> 😂 **OUR COIN ($OCN): The People’s Token!**  
-> Forget “private ownership.” This is about *OUR* success.  
-> 🚀 Solana speed, meme-worthy fun, and a growing collective.  
-> Join the movement now:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
-### **19. Viral Hashtag Campaign**
-**X (Twitter):**
-> 🛑 Say no to “my”! Say yes to *OUR*!  
-> Join the revolution with **OUR COIN ($OCN)**—a crypto parody like no other!  
-> 🌟 Use #OURCOIN and let the memes flow.  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Let’s make crypto history together! 🚀  
-#MemeCoin #CryptoComedy #OURCOIN
-
-**Telegram:**
-> 🔥 **Hashtag Challenge!** 🔥  
-> 🚀 Share the funniest **OUR COIN** memes and tag them with #OURCOIN.  
-> Let’s flood the internet with laughs and solidarity!  
-> Join the conversation here:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
-### **20. Community-Driven Push**
-**X (Twitter):**
-> 🚀 **OUR COIN ($OCN)** is powered by YOU, the people!  
-> No central banks, no private ownership—just a collective of comrades building something extraordinary.  
-> Join the revolution:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Together, we moon! 🌕  
-#CryptoCommunity #MemeRevolution #OURCOIN
-
-**Telegram:**
-> 🌟 **OUR COIN ($OCN) Needs You!** 🌟  
-> The revolution is growing, but it’s incomplete without YOU.  
-> 🚀 Be part of the collective and let’s rewrite crypto history together!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
 ---
 
