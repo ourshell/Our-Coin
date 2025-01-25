@@ -85,6 +85,26 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **7. Meme-Based Promo**
+**X (Twitter):**
+> 🤔 Ever wonder what happens when communism meets crypto?  
+> 💡 It becomes **OUR COIN ($OCN)**—a meme coin with a cause!  
+> Forget \"my coin\" or \"your coin.\" This is *OUR* coin.  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> 🚀 Join the revolution today!  
+#CryptoMemes #OURCOIN #Solana
+
+**Telegram:**
+> 😂 **\"All proud comrades, together in crypto!\"**  
+> 🔥 **OUR COIN ($OCN)** is the funniest thing to hit the blockchain since \"decentralized potatoes.\"  
+> Be part of the satire!  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> Remember: **It’s not yours, it’s OURS!** 🌟
+
+---
+
 ### **21. “What’s $OCN?” Explainer**
 **X (Twitter):**
 > 🤔 **What is OUR COIN ($OCN)?**  
@@ -172,26 +192,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > - Earn rewards for every comrade who joins.  
 > - Help us grow *OUR* community!  
 > 🌟 **Start now and claim your place in history!**
-
----
-
-### **7. Meme-Based Promo**
-**X (Twitter):**
-> 🤔 Ever wonder what happens when communism meets crypto?  
-> 💡 It becomes **OUR COIN ($OCN)**—a meme coin with a cause!  
-> Forget \"my coin\" or \"your coin.\" This is *OUR* coin.  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> 🚀 Join the revolution today!  
-#CryptoMemes #OURCOIN #Solana
-
-**Telegram:**
-> 😂 **\"All proud comrades, together in crypto!\"**  
-> 🔥 **OUR COIN ($OCN)** is the funniest thing to hit the blockchain since \"decentralized potatoes.\"  
-> Be part of the satire!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Remember: **It’s not yours, it’s OURS!** 🌟
 
 ---
 
