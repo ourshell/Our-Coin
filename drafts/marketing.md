@@ -65,6 +65,48 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **22. FOMO Post**
+**X (Twitter):**
+> 🔥 Don’t be the last comrade to join the revolution! 🔥  
+> **OUR COIN ($OCN)** is growing fast, and you don’t want to miss out on the fun, memes, and moonshots.  
+> 🚀 Be part of something absurdly brilliant:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> FOMO is real, comrade. Act now!  
+#CryptoFOMO #OURCOIN #MemeRevolution
+
+**Telegram:**
+> 🚨 **FOMO Alert!** 🚨  
+> Don’t miss your chance to be part of the **OUR COIN ($OCN)** revolution.  
+> 🌟 Memes, fun, and collective moonshots await.  
+> Join now before it’s too late:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
+### **21. “What’s $OCN?” Explainer**
+**X (Twitter):**
+> 🤔 **What is OUR COIN ($OCN)?**  
+> A parody of communism, powered by blockchain and memes.  
+> 💡 Fast, funny, and community-driven, $OCN is not just a coin—it’s a revolution.  
+> Learn more:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> Join us and laugh your way to the blockchain future! 🚀  
+#CryptoExplained #OURCOIN #BlockchainHumor
+
+**Telegram:**
+> 🤔 **What’s $OCN?**  
+> A revolutionary meme token that laughs at history while building the future.  
+> 🚀 Built on Solana for speed.  
+> 😂 Designed for memes, laughs, and collective success.  
+> Join now:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
 ### **4. Why Choose $OCN**
 **X (Twitter):**
 > 🔥 Why choose **OUR COIN ($OCN)?** 🔥  
@@ -394,48 +436,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 🌟 **OUR COIN ($OCN) Needs You!** 🌟  
 > The revolution is growing, but it’s incomplete without YOU.  
 > 🚀 Be part of the collective and let’s rewrite crypto history together!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
-### **21. “What’s $OCN?” Explainer**
-**X (Twitter):**
-> 🤔 **What is OUR COIN ($OCN)?**  
-> A parody of communism, powered by blockchain and memes.  
-> 💡 Fast, funny, and community-driven, $OCN is not just a coin—it’s a revolution.  
-> Learn more:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Join us and laugh your way to the blockchain future! 🚀  
-#CryptoExplained #OURCOIN #BlockchainHumor
-
-**Telegram:**
-> 🤔 **What’s $OCN?**  
-> A revolutionary meme token that laughs at history while building the future.  
-> 🚀 Built on Solana for speed.  
-> 😂 Designed for memes, laughs, and collective success.  
-> Join now:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
-### **22. FOMO (Fear of Missing Out) Post**
-**X (Twitter):**
-> 🔥 Don’t be the last comrade to join the revolution! 🔥  
-> **OUR COIN ($OCN)** is growing fast, and you don’t want to miss out on the fun, memes, and moonshots.  
-> 🚀 Be part of something absurdly brilliant:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> FOMO is real, comrade. Act now!  
-#CryptoFOMO #OURCOIN #MemeRevolution
-
-**Telegram:**
-> 🚨 **FOMO Alert!** 🚨  
-> Don’t miss your chance to be part of the **OUR COIN ($OCN)** revolution.  
-> 🌟 Memes, fun, and collective moonshots await.  
-> Join now before it’s too late:  
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
