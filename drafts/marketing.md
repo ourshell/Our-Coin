@@ -316,6 +316,26 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **13. Launch Countdown**
+**X (Twitter):**
+> ⏳ The wait is almost over...  
+> 🚀 **OUR COIN ($OCN)** is launching in just **X days**!  
+> Join the revolution early and be part of crypto’s funniest movement.  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> History will be made. Don’t miss out! 🌟  
+#CryptoLaunch #OURCOIN #BlockchainRevolution
+
+**Telegram:**
+> 🚨 **Countdown Alert!** 🚨  
+> **OUR COIN ($OCN)** is launching in **X days**!  
+> Don’t miss your chance to be part of the funniest and most absurd crypto revolution.  
+> 🚀 Join the revolution now:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+
+---
+
 ### **10. Post-Launch Hype**
 **X (Twitter):**
 > 🚀 **OUR COIN ($OCN) IS LIVE!** 🚀  
@@ -335,26 +355,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 > **The revolution starts now!**
-
----
-
-### **13. Launch Countdown**
-**X (Twitter):**
-> ⏳ The wait is almost over...  
-> 🚀 **OUR COIN ($OCN)** is launching in just **X days**!  
-> Join the revolution early and be part of crypto’s funniest movement.  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> History will be made. Don’t miss out! 🌟  
-#CryptoLaunch #OURCOIN #BlockchainRevolution
-
-**Telegram:**
-> 🚨 **Countdown Alert!** 🚨  
-> **OUR COIN ($OCN)** is launching in **X days**!  
-> Don’t miss your chance to be part of the funniest and most absurd crypto revolution.  
-> 🚀 Join the revolution now:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 
 ---
 
