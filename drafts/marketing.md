@@ -322,29 +322,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **16. Viral Meme Challenge**
-**X (Twitter):**
-> 😂 **MEME CHALLENGE** 😂  
-> Create the funniest **OUR COIN ($OCN)** meme and win big prizes!  
-> 🏆 How to enter:  
-> - Post your meme with #OURCOINMEMES  
-> - Tag us and show off your creativity!  
-> 🚀 Winners announced soon!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-#CryptoMemes #OURCOIN #BlockchainComedy
-
-**Telegram:**
-> 🚨 **MEME CONTEST ALERT!** 🚨  
-> Make us laugh and win **$OCN prizes**!  
-> 🏆 Rules:  
-> - Create a hilarious **OUR COIN** meme.  
-> - Post it with #OURCOINMEMES.  
-> - Tag us to enter.  
-> 📢 Winners will be featured and rewarded! Let the meme wars begin.  
-
----
-
 ### **17. Post-Milestone Hype**
 **X (Twitter):**
 > 🎉 We hit **10,000 members** on Telegram! 🎉  
