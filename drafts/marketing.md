@@ -164,6 +164,27 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **9. Community Growth Call**
+**X (Twitter):**
+> 🚨 **Comrades Needed!** 🚨  
+> **OUR COIN ($OCN)** is growing fast, but the revolution needs YOU! 💪  
+> 📈 Bring your friends, your memes, and your collective spirit to the party.  
+> Be part of the funniest thing to hit crypto since \"rekt.\"  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> 🌟 *Join today and let’s make history together!*  
+#CryptoCommunity #MemeRevolution #OURCOIN
+
+**Telegram:**
+> 🔔 **Calling All Comrades!** 🔔  
+> **OUR COIN ($OCN)** is growing, and we need your help to spread the word.  
+> 📢 Join us to laugh, meme, and bring value to the collective!  
+> 🌟 Links:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
 ### **21. “What’s $OCN?” Explainer**
 **X (Twitter):**
 > 🤔 **What is OUR COIN ($OCN)?**  
@@ -271,27 +292,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > Join the movement today:  
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-
----
-
-### **9. Community Growth Call**
-**X (Twitter):**
-> 🚨 **Comrades Needed!** 🚨  
-> **OUR COIN ($OCN)** is growing fast, but the revolution needs YOU! 💪  
-> 📈 Bring your friends, your memes, and your collective spirit to the party.  
-> Be part of the funniest thing to hit crypto since \"rekt.\"  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> 🌟 *Join today and let’s make history together!*  
-#CryptoCommunity #MemeRevolution #OURCOIN
-
-**Telegram:**
-> 🔔 **Calling All Comrades!** 🔔  
-> **OUR COIN ($OCN)** is growing, and we need your help to spread the word.  
-> 📢 Join us to laugh, meme, and bring value to the collective!  
-> 🌟 Links:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
 ---
 
