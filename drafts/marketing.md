@@ -279,30 +279,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
-### **12. Meme Contest Promo**
-**X (Twitter):**
-> 🖼️ **Meme Contest Alert!** 🖼️  
-> Show off your creativity and win **$OCN tokens!**  
-> 🌟 Rules:  
-> 1️⃣ Create your best **OUR COIN ($OCN)** meme.  
-> 2️⃣ Post it with #OURCOINMEMES.  
-> 3️⃣ Tag us for a chance to win BIG!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> Let’s meme our way to the moon! 🚀  
-#CryptoMemes #OURCOIN #MemeContest
-
-**Telegram:**
-> 😂 **Time for a Meme War!** 😂  
-> Show the world what **$OCN** means to you in meme form!  
-> 🏆 Best memes will win **$OCN prizes** and eternal glory.  
-> 🌟 Share your meme in the group and on social media with #OURCOINMEMES.  
-> Join the fun:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
-
----
-
 ### **13. Launch Countdown**
 **X (Twitter):**
 > ⏳ The wait is almost over...  
