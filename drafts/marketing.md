@@ -48,7 +48,7 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 ### **3. Invite Contest**
 **X (Twitter):**
 > 🚨 **Invite Contest** 🚨  
-> Bring your comrades to the revolution! 🪧  
+> Bring your comrades to the revolution!  
 > 🏆 Top referrers will win exclusive **OUR COIN ($OCN)** rewards!  
 > How to join:  
 > - Share your invite link  
