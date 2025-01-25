@@ -275,6 +275,27 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 
 ---
 
+### **11. Referral Challenge Promo**
+**X (Twitter):**
+> 🏆 **Want to win free $OCN?** 🏆  
+> Join our **Referral Challenge** and bring your comrades to the revolution!  
+> 🔗 Use your referral link, grow the community, and win BIG!  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
+> The more you refer, the closer we get to *OUR* collective moonshot! 🚀  
+#CryptoGiveaway #ReferralChallenge #OURCOIN
+
+**Telegram:**
+> 🔥 **Referral Contest Alert!** 🔥  
+> Invite your comrades and climb the leaderboard!  
+> 🏆 Top referrers will win exclusive **$OCN** prizes.  
+> Start sharing your link and grow the collective revolution!  
+> 🌟 Links:  
+> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
+> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
+
+---
+
 ### **8. Pre-Launch Teaser**
 **X (Twitter):**
 > ⏳ Something BIG is coming...  
@@ -314,27 +335,6 @@ These templates maintain a humorous, engaging tone while highlighting the coin�
 > 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 > 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 > **The revolution starts now!**
-
----
-
-### **11. Referral Challenge Promo**
-**X (Twitter):**
-> 🏆 **Want to win free $OCN?** 🏆  
-> Join our **Referral Challenge** and bring your comrades to the revolution!  
-> 🔗 Use your referral link, grow the community, and win BIG!  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)  
-> The more you refer, the closer we get to *OUR* collective moonshot! 🚀  
-#CryptoGiveaway #ReferralChallenge #OURCOIN
-
-**Telegram:**
-> 🔥 **Referral Contest Alert!** 🔥  
-> Invite your comrades and climb the leaderboard!  
-> 🏆 Top referrers will win exclusive **$OCN** prizes.  
-> Start sharing your link and grow the collective revolution!  
-> 🌟 Links:  
-> 💬 Telegram: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-> 🐦 Twitter: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
 ---
 
