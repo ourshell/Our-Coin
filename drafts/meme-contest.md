@@ -37,7 +37,7 @@ Feel free to mash these up, parody them, or blend them with any typical propagan
 
 You don’t have to follow any guidelines when it comes to creativity. For instance, I took the liberty of ignoring above tips and instead followed nothing but my imagination. This is my freestyle design. It’s a concept and a true piece of art. Hope it inspires you to think outside the box too!
 
-Checkout my X post here:
+Check out my X post here:
 
 https://x.com/andonoff666/status/1883968040297193907
 
