@@ -41,6 +41,6 @@ Feel free to mash these up, parody them, or blend them with any typical propagan
 ---
 
 ## **Ready for the Meme Revolution?**
-Remember: **“From each according to their ability; to each according to their meme-making genius!”** So rally your best ideas, wave the red banner, and show us how OURCOIN ($OCN) can unite the people in the most meme-tastic way possible.
+Remember: **“From each according to their ability, to each according to their creativity!”** So rally your best ideas, wave the red banner, and show us how OURCOIN ($OCN) can unite the people in the most meme-tastic way possible.
 
 **To arms, Comrades — let the Meme Wars begin!**
