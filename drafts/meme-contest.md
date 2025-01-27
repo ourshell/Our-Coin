@@ -1,6 +1,6 @@
 ### **Our Meme Mission**
 
-**Comrades, gather around!** The Meme Revolution for **OURCOIN ($OCN)** is upon us, and your creativity is the secret weapon we need to propel it to victory. Prepare for glory—and prizes!
+**Comrades, gather around!** The revolution for **OURCOIN ($OCN)** is upon us, and your creativity is the secret weapon we need to propel it to victory. Prepare for glory — and prizes!
 
 ---
 
