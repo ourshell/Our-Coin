@@ -13,10 +13,7 @@
 
 We want you to create the most hilarious, satirical memes that poke fun at old-school communism while showcasing **OURCOIN ($OCN)**. Think hammer and sickle, bright red stars, heroic poses, and fearless revolutionary slogans — but cranked up to Meme Mode!
 
----
-
-## **Your Meme Mission**
-You’re free to go wild with **any style or concept**, as long as it’s satirical and references **OURCOIN ($OCN)** in the spirit of our beloved (and very ironic) communist aesthetic. We do, however, offer you **seven guideline slogans** to inspire your designs:
+You’re free to go wild with any style or concept, as long as it’s satirical and references **OURCOIN ($OCN)** in the spirit of our beloved (and very ironic) communist aesthetic. We do, however, offer you **seven guideline slogans** to inspire your designs:
 
 1. Perfection Needs No Improvement—Just a Collective Investment in OURCOIN ($OCN).  
 2. In the Glorious Republic of OURCOIN ($OCN), All Bags Are Equal (But Some Are More Equal Than Others).  
