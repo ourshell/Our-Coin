@@ -39,7 +39,7 @@ You don’t have to follow any guidelines when it comes to creativity. For insta
 
 Check out my X post here:
 
-https://x.com/andonoff666/status/1883968040297193907
+https://x.com/Andonoff666/status/1883974552537243713
 
 ---
 
