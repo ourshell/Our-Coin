@@ -31,10 +31,12 @@ Feel free to mash these up, parody them, or blend them with any typical propagan
 ---
 
 ## **Submission Guidelines**
-1. **Style:** Any format—images, short GIFs, or even short-form videos. As long as it’s a meme, it’s welcome.  
-2. **Crypto & Communism:** Your entry should combine references to old communist propaganda and OURCOIN ($OCN).  
-3. **Keep It Funny:** We’re looking for witty, satire-laced content. Feel free to be bold—just keep it civil.  
-4. **Deadline:** All submissions must be in before the official countdown ends. Don’t be late, Comrade!  
+1. **Deadline:** All submissions must be in before January 30, 23:59 UTC—the day before we officially launch $OCN. Don’t be late, Comrade!
+2. **Platform Requirements:** Post your meme on social media (Twitter/X preferred) and tag our official account at _OurCoin.
+3. **Use the Hashtags:** Please include $OCN or #OURCOIN in your post to ensure we see your masterpiece.
+4. **Style:** Any format — images, GIFs, or even short-form videos. As long as it’s a meme, it’s welcome.
+5. **Keep It Funny:** Your entry should combine references to old communist propaganda and OURCOIN ($OCN). 
+6. **Tone:** Keep it witty, keep it satire-laced—but stay civil and respectful.
 
 ---
 
