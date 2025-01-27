@@ -35,6 +35,9 @@ Feel free to mash these up, parody them, or blend them with any typical propagan
 5. **Keep It Funny:** Your entry should combine references to old communist propaganda and OURCOIN ($OCN). 
 6. **Tone:** Keep it witty, keep it satire-laced—but stay civil and respectful.
 
+### Example:
+https://x.com/andonoff666/status/1883968040297193907
+
 ---
 
 ## **Ready for the Meme Revolution?**
