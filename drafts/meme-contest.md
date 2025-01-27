@@ -35,7 +35,8 @@ Feel free to mash these up, parody them, or blend them with any typical propagan
 5. **Keep It Funny:** Your entry should combine references to old communist propaganda and OURCOIN ($OCN). 
 6. **Tone:** Keep it witty, keep it satire-laced—but stay civil and respectful.
 
-### Example:
+You don’t have to follow any guidelines when it comes to creativity. For instance, I took the liberty of ignoring above tips and instead followed nothing but my imagination. This is my freestyle design. It’s a concept and a true piece of art. Hope it inspires you to think outside the box too!
+Checkout my X post here:
 https://x.com/andonoff666/status/1883968040297193907
 
 ---
