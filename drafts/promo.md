@@ -13,7 +13,7 @@ What sets **OUR COIN** apart is its **bold transparency** and the expertise behi
 - **Community-Driven:** A collective effort that celebrates humor, creativity, and collaboration.  
 - **A Revolutionary Concept:** Not your ordinary meme coin. **$OCN** is a satirical take on collectivism, drawing inspiration from our rich and prestigious history.
 
-**OUR COIN** is built for those who appreciate creativity, transparency, and the hilarious side of blockchain. It’s not about “my” success or “your” coin—it’s *OUR* success and *OUR* coin!  
+**OUR COIN** is built for those who appreciate creativity, transparency, and the hilarious side of blockchain. It’s not about “my” success or “your” coin. It’s *OUR* success and *OUR* coin!  
 
 ---
 
