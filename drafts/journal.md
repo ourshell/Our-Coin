@@ -27,7 +27,7 @@ You can learn more about Boris and connect with him directly on LinkedIn:
 
 **OUR COIN ($OCN)** is released on the **Solana blockchain**, a platform known for its speed, scalability, and minimal transaction fees. Solana’s robust infrastructure ensures that **$OCN** offers users a seamless and efficient experience, making it ideal for a rapidly growing community.  
 
-🛠 **Contract Address:** `xxxxxxxxxxxxxxxxx`  
+🛠 **Contract Address:** `4GFe6MBDorSy5bLbXUMrgETr6pZcjyfxMDm5ehSgpump`  
 
 By leveraging Solana, **OUR COIN** positions itself as a token with practical utility, built on technology that’s ready for the future of decentralized finance (DeFi).  
 
@@ -53,10 +53,10 @@ Here’s how you can get involved:
 - **Trade $OCN:** Get ready to hold a piece of this revolutionary token.  
 
 🔗 **Quick Links:**  
-- **GitHub Project:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
+- ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-- 📈 **DexScreener:** [https:.../.../xxxxxxxxxxxxxxxxx](https:.../.../xxxxxxxxxxxxxxxxx)  
+- 📈 **DexScreener:** [https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l](https://dexscreener.com/solana/errdtwwykdz37ogvPdruq2txnc9ntx78x32pnxwpeq7l)  
 
 ---
 
