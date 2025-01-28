@@ -21,7 +21,7 @@ What sets **OUR COIN** apart is its **bold transparency** and the expertise behi
 **OUR COIN ($OCN)** isn’t just a token — it’s a revolution. Together, we’re creating something absurdly brilliant.  
 
 🔗 **Links to Learn More:**  
-- **GitHub Project:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
+- ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 - 🛠 **Contract Address:** `4GFe6MBDorSy5bLbXUMrgETr6pZcjyfxMDm5ehSgpump`  
