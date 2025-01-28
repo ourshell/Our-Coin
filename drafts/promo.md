@@ -18,7 +18,7 @@ What sets **OUR COIN** apart is its **bold transparency** and the expertise behi
 ---
 
 🚀 **Join the Movement Today**  
-**OUR COIN ($OCN)** isn’t just a token — it’s a revolution. Together, we’re creating something absurdly brilliant.  
+**OUR COIN ($OCN)** isn’t just a token — it’s a revolution. Together, we are creating something absurdly brilliant.  
 
 🔗 **Links to Learn More:**  
 - ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
