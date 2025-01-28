@@ -1,6 +1,6 @@
 🌟 **Introducing OUR COIN ($OCN): A Revolutionary Meme Coin Like No Other!** 🌟  
 
-In a world flooded with dog-themed and kitty-inspired meme coins, **OUR COIN** dares to take a bold new approach. **$OCN** isn’t just another token. It’s a **political parody** infused with humor, creativity and a unique vision.  
+In a world flooded with dog-themed and cat-inspired meme coins, **OUR COIN** dares to take a bold new approach. **$OCN** isn’t just another token. It’s a **political parody** infused with humor, creativity and a unique vision.  
 
 What sets **OUR COIN** apart is its **bold transparency** and the expertise behind it. Unlike many tokens with ghost developers and rug-pull exits, **OUR COIN** is backed by a real person: **Boris Andonov** — an experienced IT professional with impressive projects in PowerShell scripting. Boris is a visionary who knows how to turn complex ideas into functional, scalable solutions. Connect with Boris directly on LinkedIn:  
 👉 [https://www.linkedin.com/in/boris-andonov-064a3a188/](https://www.linkedin.com/in/boris-andonov-064a3a188/)  
