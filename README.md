@@ -50,7 +50,7 @@ Make sure you have **0.05 SOL left** after buying \$OCN.
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Phantom** and click on the **“Swap”** tab.  
 2. **Select “SOL”** as the token you’re swapping from.  
-3. **Paste \$OCN’s Contract Address (TBA)** as the token you’re swapping to (it won’t be listed because it’s new).  
+3. **Paste \$OCN’s Contract Address** 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump as the token you’re swapping to (it won’t be listed because it’s new).  
 4. **Confirm Your Swap**: Enter the amount of SOL you want to trade, but remember to keep about 0.05 SOL for fees.  
 5. **Execute**: Review and confirm. Once it’s done, **\$OCN** will show up in your Phantom wallet.
 
