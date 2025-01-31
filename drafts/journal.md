@@ -56,7 +56,8 @@ Here’s how you can get involved:
 - ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-- 📈 **DexScreener:** [https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l](https://dexscreener.com/solana/3pqrfoy5okgjzj3m78ztx9e9mmpuvtcz3czxwbaptbvr)  
+- 📈 **DexScreener:** [https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l](https://dexscreener.com/solana/3pqrfoy5okgjzj3m78ztx9e9mmpuvtcz3czxwbaptbvr)
+- 🚀 **Pump.fun:** [https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump](https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump)
 
 ---
 
