@@ -1,4 +1,4 @@
-## **What is OUR COIN (\$OCN)?**
+## **OUR COIN (\$OCN) - The most epic political token**
 
 ### Checkout [The White Paper](https://github.com/ourshell/Our-Coin/blob/main/White-Paper.md)
 
