@@ -78,7 +78,7 @@ Again, remember to keep **0.05 SOL** in your wallet for fees.
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Solflare** and find **“Swap”** or **“Trade.”**  
 2. **Select SOL** as the input.  
-3. **Paste \$OCN’s Contract Address (TBA)** or choose \$OCN as the output.  
+3. **Paste \$OCN’s Contract Address** 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump or choose \$OCN as the output.  
 4. **Confirm the Amount**: Enter how much SOL you want to spend.  
 5. **Complete the Swap**: Once the transaction is confirmed, **\$OCN** will appear in your Solflare wallet.
 
