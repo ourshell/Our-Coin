@@ -12,7 +12,7 @@ We’re building an amazing community on Telegram and Twitter, and we’ll launc
 - **Twitter (X)**: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
 **Contract Address**: 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump  
-**DexScreener**: [$OCN](https://dexscreener.com/solana/3pqrfoy5okgjzj3m78ztx9e9mmpuvtcz3czxwbaptbvr)  
+**DexScreener**: [$OCN](https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon))  
 **CoinMarketCap**: TBA  
 
 ---
