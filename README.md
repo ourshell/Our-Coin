@@ -11,7 +11,7 @@ We’re building an amazing community on Telegram and Twitter, and we’ll launc
 - **Telegram**: [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 - **Twitter (X)**: [https://x.com/_OurCoin](https://x.com/_OurCoin)
 
-**Contract Address**: 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump  
+**Contract Address**: 84dfMzjUA5qVTK4Ms9NhTgKmxZNDkvVU4mwR2cCimoon  
 **DexScreener**: [$OCN](https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon))  
 **CoinMarketCap**: TBA  
 
@@ -50,7 +50,7 @@ Make sure you have **0.05 SOL left** after buying \$OCN.
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Phantom** and click on the **“Swap”** tab.  
 2. **Select “SOL”** as the token you’re swapping from.  
-3. **Paste \$OCN’s Contract Address** 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump as the token you’re swapping to (it won’t be listed because it’s new).  
+3. **Paste \$OCN’s Contract Address** 84dfMzjUA5qVTK4Ms9NhTgKmxZNDkvVU4mwR2cCimoon as the token you’re swapping to (it won’t be listed because it’s new).  
 4. **Confirm Your Swap**: Enter the amount of SOL you want to trade, but remember to keep about 0.05 SOL for fees.  
 5. **Execute**: Review and confirm. Once it’s done, **\$OCN** will show up in your Phantom wallet.
 
@@ -78,7 +78,7 @@ Again, remember to keep **0.05 SOL** in your wallet for fees.
 ### **Step 4: Swap SOL for \$OCN**  
 1. **Open Solflare** and find **“Swap”** or **“Trade.”**  
 2. **Select SOL** as the input.  
-3. **Paste \$OCN’s Contract Address** 34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump or choose \$OCN as the output.  
+3. **Paste \$OCN’s Contract Address** 84dfMzjUA5qVTK4Ms9NhTgKmxZNDkvVU4mwR2cCimoon or choose \$OCN as the output.  
 4. **Confirm the Amount**: Enter how much SOL you want to spend.  
 5. **Complete the Swap**: Once the transaction is confirmed, **\$OCN** will appear in your Solflare wallet.
 
