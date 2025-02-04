@@ -25,8 +25,7 @@ What sets **OUR COIN** apart is its **bold transparency** and the expertise behi
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
 - 🛠 **Contract Address:** `34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump`  
-- 📈 **DexScreener:** [https://dexscreener.com/solana/errdtwwykdz37ogvPdruq2txnc9ntx78x32pnxwpeq7l](https://dexscreener.com/solana/3pqrfoy5okgjzj3m78ztx9e9mmpuvtcz3czxwbaptbvr)
-- 🚀 **Pump.fun:** [https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump](https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump)
+- 📈 **DexScreener:** [https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon](https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon)  
 
 #Crypto #Blockchain #OURCOIN #MemeCoin  
 
