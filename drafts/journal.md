@@ -27,7 +27,7 @@ You can learn more about Boris and connect with him directly on LinkedIn:
 
 **OUR COIN ($OCN)** is released on the **Solana blockchain**, a platform known for its speed, scalability, and minimal transaction fees. Solana’s robust infrastructure ensures that **$OCN** offers users a seamless and efficient experience, making it ideal for a rapidly growing community.  
 
-🛠 **Contract Address:** `34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump`  
+🛠 **Contract Address:** `84dfMzjUA5qVTK4Ms9NhTgKmxZNDkvVU4mwR2cCimoon`  
 
 By leveraging Solana, **OUR COIN** positions itself as a token with practical utility, built on technology that’s ready for the future of decentralized finance (DeFi).  
 
@@ -56,8 +56,7 @@ Here’s how you can get involved:
 - ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-- 📈 **DexScreener:** [https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l](https://dexscreener.com/solana/3pqrfoy5okgjzj3m78ztx9e9mmpuvtcz3czxwbaptbvr)
-- 🚀 **Pump.fun:** [https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump](https://pump.fun/coin/34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump)
+- 📈 **DexScreener:** [https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon](https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon)
 
 ---
 
