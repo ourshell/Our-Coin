@@ -22,5 +22,6 @@ Trust isn’t given—it’s **earned.** From now on, we promise:
 
 💪 **This is not the end—it’s just the beginning.** If you still believe in $PAPADOG, **now is the time to step up.** Let’s **rebuild trust, revive the project, and take it to new heights—together!**  
 
-🚀 **Join the movement:** [t.me/papadog2](t.me/papadog2) 🚀  
+🚀 **Join the new group now:**
+[t.me/papadog2](t.me/papadog2) 🚀  
 
