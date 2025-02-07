@@ -1,53 +1,18 @@
-🚨 **$PAPADOG REVIVAL – THE COMMUNITY TAKES OVER!** 🚨  
+🚨 $SIMONSCAT REVIVAL – THE COMMUNITY TAKES OVER! 🚨
 
-**To @all $PAPADOG holders and believers,**  
+To @all $SIMONSCAT holders and believers,
 
-We know recent events have shaken trust. The original devs have gone silent, leaving us all in uncertainty. But **we refuse to let $PAPADOG die!** This is no longer in the hands of those who abandoned it. **It belongs to us, the true supporters.** We are stepping up, taking control, and **reviving this project as a true community-driven movement.**  
+We know recent events have shaken trust. The original devs have gone silent, leaving us in uncertainty. But we refuse to let $SIMONSCAT die! This project is no longer in the hands of those who abandoned it. We are stepping up, taking control, and reviving $SIMONSCAT as a community-driven project.
 
-### 🔹 A New Beginning, A Stronger Future  
-From now on, **$PAPADOG is powered by the people.** No empty promises. No false hope. Just **real passion, real commitment, and a relentless drive to rebuild.** This movement is now led by **strong, dedicated individuals who refuse to give up!**  
+🔹 A New Beginning, A Stronger Future
+From now on, $SIMONSCAT belongs to the people. We believe in its potential, and we won’t give up! This is now a movement led by strong and passionate individuals.  
 
-### 🔹 We Need Your Support – Now More Than Ever!  
-These are difficult times, and **your trust is everything.** But together, we can **turn this setback into a powerful comeback.** This revival will only succeed if **we unite, support each other, and take back control.** We are **ready to fight for this project**—but **we need YOU to stand with us.**  
+🔹 We Need Your Support – Now More Than Ever!
+Your trust and support mean everything. We are ready to fight back for this project. This is just the beginning of a powerful comeback!
 
-### 🔹 Seamless Migration – Join the Official New Group  
-The old group is fading, but **we are building something even stronger.** **Join the new official $PAPADOG community and be part of the revival:**  
-👉 **[t.me/papadog2](t.me/papadog2)**  
+🔹 Transparency, Trust & True Community Power
+Trust isn’t given, it’s earned. We promise full transparency, real communication, and a truly community-driven future. No more silence.
 
-### 🔹 Transparency, Trust & True Community Power  
-Trust isn’t given—it’s **earned.** From now on, we promise:  
-✅ **Full transparency** – No more silence. No more hidden agendas.  
-✅ **Real communication** – Every update, every move, shared with the community.  
-✅ **Community-driven leadership** – **YOU** will have a voice in decisions.  
-
-💪 **This is not the end—it’s just the beginning.** If you still believe in $PAPADOG, **now is the time to step up.** Let’s **rebuild trust, revive the project, and take it to new heights—together!**  
-
-🚀 **Join the new group now:**
-[t.me/papadog2](t.me/papadog2) 🚀  
-
-
-
-
-===================
-
-
-🚨 **$PAPADOG REVIVAL – THE COMMUNITY TAKES OVER!** 🚨  
-
-**To @all $PAPADOG holders and believers,**  
-
-We know recent events have shaken trust. The original devs have gone silent, leaving us all in uncertainty. But **we refuse to let $PAPADOG die!** This is no longer in the hands of those who abandoned it. **It belongs to us, the true supporters.** We are stepping up, taking control, and **reviving this project as a true community-driven project.**  
-
-🔹 **A New Beginning, A Stronger Future**  
-From now on, **$PAPADOG belongs to the people.**We believe in this project and its potential. **This is now a movement led by strong, passionate individuals who refuse to give up!**  
-
-🔹 **We Need Your Support – Now More Than Ever!**  
-In these difficult times, **your trust and support mean everything.** **We are ready to fight back for this project.**  This is the beginning of a powerful comeback. 
-
-🔹 **Transparency, Trust & True Community Power**  
-We know trust isn’t given – it’s earned. That’s why we promise **full transparency, real communication, and community-driven leadership.** No more silence.
-
-🔹 **Seamless Migration – Join the Official New Group**  
-The old group is fading, but **we are building something even stronger.** 
-
-Join the new official $PAPADOG community here:  
-👉 [t.me/papadog2](t.me/papadog2)  
+🔹 Seamless Migration – Join the Official New Group
+The old group is fading, but we are building something even stronger. Join the new official $SIMONSCAT community here:  
+t.me/SIMONSCAT2
