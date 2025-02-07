@@ -1,6 +1,6 @@
 🚨 **$PAPADOG REVIVAL – THE COMMUNITY TAKES OVER!** 🚨  
 
-**To all $PAPADOG holders and believers,**  
+**To @all $PAPADOG holders and believers,**  
 
 We know recent events have shaken trust. The original devs have gone silent, leaving us all in uncertainty. But **we refuse to let $PAPADOG die!** This is no longer in the hands of those who abandoned it—**it belongs to us, the true supporters.** We are stepping up, taking control, and **reviving this project as a true community-driven movement.**  
 
