@@ -2,7 +2,7 @@
 
 **To @all $PAPADOG holders and believers,**  
 
-We know recent events have shaken trust. The original devs have gone silent, leaving us all in uncertainty. But **we refuse to let $PAPADOG die!** This is no longer in the hands of those who abandoned it—**it belongs to us, the true supporters.** We are stepping up, taking control, and **reviving this project as a true community-driven movement.**  
+We know recent events have shaken trust. The original devs have gone silent, leaving us all in uncertainty. But **we refuse to let $PAPADOG die!** This is no longer in the hands of those who abandoned it. **It belongs to us, the true supporters.** We are stepping up, taking control, and **reviving this project as a true community-driven movement.**  
 
 ### 🔹 A New Beginning, A Stronger Future  
 From this moment forward, **$PAPADOG is powered by the people.** No empty promises. No false hope. Just **real passion, real commitment, and a relentless drive to rebuild.** This movement is now led by **strong, dedicated individuals who refuse to give up!**  
