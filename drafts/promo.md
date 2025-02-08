@@ -24,7 +24,7 @@ What sets **OUR COIN** apart is its **bold transparency** and the expertise behi
 - ⚙️ **GitHub:** [https://github.com/ourshell/Our-Coin](https://github.com/ourshell/Our-Coin)  
 - 🐦 **Twitter (X):** [https://x.com/_OurCoin](https://x.com/_OurCoin)  
 - 💬 **Telegram:** [https://t.co/Oksclt8xwU](https://t.co/Oksclt8xwU)  
-- 🛠 **Contract Address:** `34zF9Rs4DF4zABWP4ZVQG5RzNYKevrun3eExktePpump`  
+- 🛠 **Contract Address:** `84dfMzjUA5qVTK4Ms9NhTgKmxZNDkvVU4mwR2cCimoon`  
 - 📈 **DexScreener:** [https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon](https://dexscreener.com/solana/84dfmzjua5qvtk4ms9nhtgkmxzndkvvu4mwr2ccimoon)  
 
 #Crypto #Blockchain #OURCOIN #MemeCoin  
